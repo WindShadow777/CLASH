@@ -10,3 +10,16 @@
 # DOMAIN-SUFFIX,polymarket.com
 # DOMAIN-SUFFIX,groq.com
 # DOMAIN-SUFFIX,difyai.com
+
+# P2P 连接直连（避免代理）
+# 典型 Peer 节点
+DOMAIN-SUFFIX,peer.example.com,DIRECT
+# BitTorrent 节点
+DOMAIN-SUFFIX,p2p.bit torrent.com,DIRECT
+# uTorrent Tracker 节点
+DOMAIN-SUFFIX,utorrent.com,DIRECT
+
+  
+# qBittorrent 进程本地流量直连
+# 确保 qBittorrent 本地流量不被代理
+PROCESS-NAME,qbittorrent.exe,DIRECT

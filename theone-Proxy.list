@@ -11,8 +11,8 @@
 # DOMAIN-SUFFIX,difyai.com
 
 # Tracker 服务器通过代理加速
-- DOMAIN-SUFFIX,tracker.openbittorrent.com,PROXY  # OpenBitTorrent Tracker
-- DOMAIN-SUFFIX,opentrackr.org,PROXY            # OpenTrackr Tracker
-- DOMAIN-SUFFIX,publicbt.com,PROXY              # Public BitTorrent Tracker
-- DOMAIN-SUFFIX,bitspyder.xyz,PROXY             # 其他常见的种子 Tracker
+DOMAIN-SUFFIX,tracker.openbittorrent.com
+DOMAIN-SUFFIX,opentrackr.org
+DOMAIN-SUFFIX,publicbt.com
+DOMAIN-SUFFIX,bitspyder.xyz
 

@@ -1,7 +1,8 @@
 # IP段匹配
 # IP-CIDR,142.171.133.131/32,no-resolve
 
-# 国外DNS
+# 国内DNS
+# DOMAIN-KEYWORD,.tmall.com
 # DOMAIN-SUFFIX,dns.google
 
 

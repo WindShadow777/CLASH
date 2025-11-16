@@ -2,9 +2,8 @@
 # IP-CIDR,142.171.133.131/32,no-resolve
 
 # 国内DNS
-DOMAIN-KEYWORD,tmall.com
 # DOMAIN-SUFFIX,dns.google
-DOMAIN-KEYWORD,1688.com
+
 
 
 # 其他网站

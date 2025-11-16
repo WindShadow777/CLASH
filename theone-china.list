@@ -15,6 +15,18 @@ DOMAIN-KEYWORD,hdsky.me
 DOMAIN-KEYWORD,ptzone.xyz
 DOMAIN-SUFFIX,winrobot360.com
 DOMAIN-KEYWORD,theone3339.top
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,95533.com
+DOMAIN-SUFFIX,ccbfin.com
+DOMAIN-SUFFIX,ccbintl.com
+# 可能用于金融工具  
+DOMAIN-SUFFIX,ccbft.com  
+# 银行常合作支付宝生物识别  
+DOMAIN-SUFFIX,alipay.com 
+# 云服务CDN  
+DOMAIN-SUFFIX,aliyun.com  
+# 通用指纹验证域
+DOMAIN-SUFFIX,faceid.com    
 
 # P2P 连接直连（避免代理）
 # 典型 Peer 节点

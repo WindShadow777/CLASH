@@ -10,6 +10,7 @@
 # DOMAIN-SUFFIX,groq.com
 # DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,549.tv
+DOMAIN-SUFFIX,ollama.ai
 
 # Tracker 服务器通过代理加速
 DOMAIN-SUFFIX,tracker.openbittorrent.com

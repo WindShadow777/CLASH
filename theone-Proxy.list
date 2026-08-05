@@ -12,6 +12,10 @@ DOMAIN,generativelanguage.googleapis.com
 # ---------- 媒体 / 站点 ----------
 DOMAIN-SUFFIX,549.tv
 
+# ---------- 即时通讯（Telegram）----------
+# DOMAIN-SUFFIX 覆盖 api.telegram.org / web.telegram.org 等子域
+DOMAIN-SUFFIX,telegram.org
+
 # ---------- BT Tracker（走代理加速）----------
 DOMAIN-SUFFIX,tracker.openbittorrent.com
 DOMAIN-SUFFIX,opentrackr.org

@@ -13,8 +13,21 @@ DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,549.tv
 
 # ---------- 即时通讯（Telegram）----------
-# DOMAIN-SUFFIX 覆盖 api.telegram.org / web.telegram.org 等子域
+# 主站 + 短链/桌面/CDN/图床等同系；不含过宽通用域（如 contest.com/graph.org）
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,telega.one
 
 # ---------- BT Tracker（走代理加速）----------
 DOMAIN-SUFFIX,tracker.openbittorrent.com

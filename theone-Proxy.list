@@ -3,12 +3,6 @@
 # 语法：Clash classical
 # 约定：与 theone-china.list 互斥；同一域名只应出现在一侧
 
-# ---------- AI / 开发 ----------
-DOMAIN-SUFFIX,ollama.ai
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-KEYWORD,notebooklm
-DOMAIN,generativelanguage.googleapis.com
-
 # ---------- 媒体 / 站点 ----------
 DOMAIN-SUFFIX,549.tv
 

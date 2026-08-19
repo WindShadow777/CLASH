@@ -1,0 +1,11 @@
+# theone-AI.list — 专用 AI 种子（RULE-SET → Other AI）
+# 真源：https://github.com/WindShadow777/CLASH
+# 语法：Clash classical
+# 约定：与 theone-china.list / theone-Proxy.list 互斥；同一域名只应出现在一侧
+# ollama.com 不预填，走报障补
+
+# ---------- AI 种子（从 Proxy 迁出）----------
+DOMAIN-SUFFIX,ollama.ai
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-KEYWORD,notebooklm
+DOMAIN,generativelanguage.googleapis.com

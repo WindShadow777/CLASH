@@ -40,3 +40,11 @@ PROCESS-NAME,qbittorrent.exe
 DOMAIN-SUFFIX,utorrent.com
 
 # 已移除无效示例：peer.example.com、p2p.bit torrent.com（含空格，不可用）
+
+# ---------- 网易系（直连；须排在 Google / IP 之前）----------
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,yeah.net
+DOMAIN-SUFFIX,126.com

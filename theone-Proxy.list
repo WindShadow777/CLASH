@@ -5,6 +5,7 @@
 
 # ---------- 媒体 / 站点 ----------
 DOMAIN-SUFFIX,549.tv
+DOMAIN-SUFFIX,mrds66.com
 
 # ---------- 即时通讯（Telegram）----------
 # 主站 + 短链/桌面/CDN/图床等同系；不含过宽通用域（如 contest.com/graph.org）
